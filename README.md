@@ -32,6 +32,10 @@ To pick a winner:
 - **SPDX-License-Identifier**: GPL-3.0
 - **Solidity Version**: >=0.5.0 <0.9.0
 
+## Contact
+
+If anyone needs any kind of smart contract development service or full-stack developer, feel free to contact Amir Ali at Amirgull422@gmail.com or send directly what's App : +923196468462 .
+
 ## Disclaimer
 
 This contract is provided as an educational example and should not be used in a production environment without thorough testing and auditing. Smart contracts handle real funds and must be carefully reviewed to ensure they function as intended and do not contain security vulnerabilities. The developer(s) and owner(s) of this contract are not responsible for any loss of funds or damages resulting from its use.
